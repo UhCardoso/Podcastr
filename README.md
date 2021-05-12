@@ -47,12 +47,6 @@ Neste projeto foram praticados os seguintes conteudos:
     - *Primeiro o caminho da rota é passado pelo atributo href do Link que é emcaminhado para a pastade espisódios passando o id do episódio como parametro para que o next consiga gerar as páginas dinamicamente durante a renderização na WEB:* 
     ![alt text](https://thumbs2.imgbox.com/7b/b7/R0hqcepZ_t.png)
     <br>
-<<<<<<< HEAD
-     - *Para isso a pasta de epiśodios já deve estar criada com o nome do arquive entre colchetes para que as paginas sejam geradas dinamicamente:*
-     ![alt text](https://images2.imgbox.com/68/40/YbjsbhOB_o.png)
-    <br>
-    - *E depois os dados, do episódio nesse caso, podem ser solicitados através de uma requisição a API, passando o id do Episódio que foi aberto, passando como parampretro da API o slug, que contém o id do Epiódio que foi passado ao clicar no Link que direciona para a rota da página:*
-=======
      
      - *Para isso a pasta de epiśodios já deve estar criada com o nome do arquive entre colchetes para que as paginas sejam geradas dinamicamente:*
 
@@ -60,7 +54,6 @@ Neste projeto foram praticados os seguintes conteudos:
     <br>
     - *E depois os dados, do episódio nesse caso, podem ser solicitados através de uma requisição a API, passando o id do Episódio que foi aberto, passando como parampretro da API o slug, que contém o id do Epiódio que foi passado ao clicar no Link que direciona para a rota da página:*
     
->>>>>>> f27b3ba36faa680801f008ea49ff2c09d9a62de7
     ![alt text](https://thumbs2.imgbox.com/c6/46/sdgPf2jR_t.png)
 
 
@@ -74,10 +67,7 @@ Neste projeto foram praticados os seguintes conteudos:
     ![alt text](https://thumbs2.imgbox.com/62/74/oTgbOSQY_t.png)
     <br>
     - *A utilização do Ref na aplicação:*
-<<<<<<< HEAD
-=======
     
->>>>>>> f27b3ba36faa680801f008ea49ff2c09d9a62de7
     ![alt text](https://thumbs2.imgbox.com/03/44/ijIXTg6U_t.png)
 
     ---
@@ -132,8 +122,4 @@ Neste projeto foram praticados os seguintes conteudos:
 - ### Responsividade:
     Deixei o site com capacidade de se adaptar a qualquer tamanho de tela sem que aja alguma quebra de layout indesejada. Para que isso fosse possível, tiver que remodelar o visual do componete player para que fosse possível o usuário conseguir ter a informaççao atual do episódio e ter acesso aos controles do player, sem que ficasse desconfortavel para ele. Veja o exemplo de como ele fica abaixo:
 
-<<<<<<< HEAD
-    ![alt text](https://s3.gifyu.com/images/demo-respo.gif)
-=======
     ![alt text](https://s3.gifyu.com/images/respde.gif)
->>>>>>> f27b3ba36faa680801f008ea49ff2c09d9a62de7
