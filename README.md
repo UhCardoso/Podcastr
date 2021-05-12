@@ -1,5 +1,5 @@
 # PODCASTR
-É uma aplicação que foi desenvolvida durante a semana #NLW5 na trilha de React, com o objeto de criar uma interface WEB que lista os Podcasts da RockeatSeat, levando para o usuário todas as informações importantes sobre o epsódio, permitindo com que ele consiga pular e voltar o epsódio através de controles de um **Player desenvolvido do zero**. Nesta a aplicação também foram usados alguns conceitos de UI/UX.
+É uma aplicação que foi desenvolvida durante a semana #NLW5 na trilha de React, com o objeto de criar uma interface WEB que lista os Podcasts da RockeatSeat, levando para o usuário todas as informações importantes sobre o epsódio, permitindo com que ele consiga pular e voltar o epsódio através de controles de um **Player desenvolvido do zero**. Nesta a aplicação também foram usados alguns conceitos de UI/UX. 
 
 [![](https://thumbs2.imgbox.com/42/7c/4FaCGMIw_t.png)](https://podcastrtest.herokuapp.com/)<br/>
 (clique na imagem para ver o site)
