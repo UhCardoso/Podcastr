@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+    main {
+        flex: 1;  
+    }
+}
+
+@media(max-width: 1024px) {
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+        main {
+            flex: 1;
+            height: 90%;
+            margin-bottom: 7rem;
+            overflow-y: none;
+        }
+    }  
+}
